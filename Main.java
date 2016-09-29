@@ -25,7 +25,7 @@ public class Main {
         return length;  
     }  
     public static void main(String[] args) {  
-        String str=" ";  
+        String str="abcabcbb";  
         System.out.println(getSubStringLength(str));  
     }  
   
